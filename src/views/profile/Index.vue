@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue'
-import TopBar from './components/TopBar.vue'
+import TopBar from '@/views/profile/components/TopBar.vue'
 import Curtain from '@/components/Curtain.vue'
 import router from "@/router";
 
